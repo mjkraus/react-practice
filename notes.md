@@ -50,7 +50,8 @@ Handling Events 3.4
 			You can complie your JSX, run a local server of MAMP, etc, OR run Firefox
 
 Using State 3.5
-	State is one of the most important react components. 
+	State is one of the most important react components.
+	When a component's state changes the render function will be called again to rerender the data 
 
 
 	
