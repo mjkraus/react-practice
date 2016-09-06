@@ -43,6 +43,16 @@ Using Properties 3.3
 	We can add properties to our component. Think of it as adding properties to an element.
 	Properties let us reuse components with different data
 
+Handling Events 3.4
+	1.53 minutes in. The page wont render because there is a cross origin request error
+		Caused by the JSX Transformer library file and the Notes.js file
+		As a security feature chrome tries to block this when we try to load from the local file system
+			You can complie your JSX, run a local server of MAMP, etc, OR run Firefox
+
+Using State 3.5
+	State is one of the most important react components. 
+
+
 	
 
 	
